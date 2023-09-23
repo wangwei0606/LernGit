@@ -35,6 +35,7 @@ end
 
 --窗口打开时调用
 function ChongzhiUI:onOpen()
+    
 end
 
 --在窗口关闭的时候调用
