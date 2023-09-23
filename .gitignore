@@ -2,3 +2,8 @@ Library/
 Logs/
 Temp/
 *.csproj
+.vs/
+.vscode/
+pkgtmp/
+*.vsconfig
+*.sln
