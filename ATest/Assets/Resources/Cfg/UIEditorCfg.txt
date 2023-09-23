@@ -1,0 +1,6 @@
+﻿{
+	   "absUIPrefabsPath":"Assets/MyResources/AssetBundle/Prefabs/UI",
+	   "absTexturePath":"Assets/MyResources/AssetBundle/Textures",
+	   "absAltasPath":"Assets/MyResources/AssetBundle/Altas",
+	   "absMapAltasPath":"Assets/MyResources/AssetBundle/AltasMap"
+}

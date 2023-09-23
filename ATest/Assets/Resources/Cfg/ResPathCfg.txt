@@ -1,0 +1,15 @@
+﻿{
+	 "absPrefabsPath":["Assets/MyResources/AssetBundle/Prefabs/","Assets/MyResources/Res/AssetBundle/Prefabs/"],
+	 "filterPath":["ui"],
+	 "isGenerater":true,
+	 "absDataConfig":"Assets/MyResources/AssetBundle/Cfg",
+	 "absLuaConfPath":"Assets/MyResources/AssetBundle/Cfg",
+	 "exportName":"ModelConfig",
+	 "absCfgScriptPath":"Assets/Scripts/Export",
+     "altasExportName":"AltasConfig.txt",
+	 "altasMappingABPath":"Prefabs/UI/AltasMaping",
+	"absTexturePath":"Assets/MyResources/AssetBundle/Textures/",
+    "absAtlasPath":"Assets/MyResources/AssetBundle/Altas",
+	"absOuterPath":"client/scripts/data/config/",
+	"absUIPath":"Assets/MyResources/AssetBundle/Prefabs/UI/",
+}

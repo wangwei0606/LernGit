@@ -1,0 +1,8 @@
+--此类有编辑器生成
+--addby editor 
+#ClassName={}
+#ClassName.Open_#UIName_UI="Open_#UIName_UI"
+#ClassName.Close_#UIName_UI="Close_#UIName_UI"
+#ClassName.OnOpen_#UIName_UI="OnOpen_#UIName_UI"
+#ClassName.OnClose_#UIName_UI="OnClose_#UIName_UI"
+

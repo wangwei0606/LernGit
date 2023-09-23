@@ -1,0 +1,14 @@
+{
+	"absExportPath":"Assets/MyResources/ToolConfig/config",
+	"absOuterPath":"client/scripts/data/",
+	"absSrouceDataPath":"Assets/MyResources/ToolConfig/config/data/",
+    "absLuaOutPath":"Assets/MyResources/ToolConfig/config/data/config/",
+	"absSqlOutPath":"Assets/MyResources/ToolConfig/config/server/",
+	"absCshareClassOutPath":"Assets/Scripts/StaticDataConfCore",
+	"absCshareDataOutPath":"Assets/MyResources/ToolConfig/config/data/config/",
+	"absExportRulePath":"Assets/MyResources/ToolConfig/config/rule/",
+    "notReadFile":"ExportRule.xlsx",
+	"luaIIndexTableName":"ConfConst",
+	"absLuaIndexRuleFile":"luaFileRuleIndex.txt",
+	"absSpecialPath":"Assets/MyResources/ToolConfig/config/SpawnPoint"
+}

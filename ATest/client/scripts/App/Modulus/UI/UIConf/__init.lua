@@ -1,0 +1,7 @@
+require 'App.Modulus.UI.UIConf.UIDefine'
+require 'App.Modulus.UI.UIConf.UIEnum'
+require 'App.Modulus.UI.UIConf.UIFloatType'
+require 'App.Modulus.UI.UIConf.UIBGImgEnum'
+require 'App.Modulus.UI.UIConf.UIBtnNameEnum'
+require 'App.Modulus.UI.UIConf.UIStencils'
+require 'App.Modulus.UI.UIConf.UIInfo'

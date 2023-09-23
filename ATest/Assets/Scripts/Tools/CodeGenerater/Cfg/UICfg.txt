@@ -1,0 +1,9 @@
+{
+    "absUIPrefabsPath":"Assets/MyResources/AssetBundle/Prefabs/UI",
+    "absAssetBuildPath":"Assets/MyResources/AssetBundle",
+    "absUIScriptPath":"client/scripts/App/Modulus",
+	"absUITmpPath":"client/scripts/App/Modulus/UI/UIStencil/Stencil",
+    "absScriptPath":"client/scripts/",
+    "mixFrom":"10000",
+    "mixTo":"15000"
+}

@@ -1,0 +1,7 @@
+#ClassName=SimpleClass()
+
+function #ClassName:__init(#ArgsTarget)
+#FieldTarget
+end
+
+#PropertieTarget

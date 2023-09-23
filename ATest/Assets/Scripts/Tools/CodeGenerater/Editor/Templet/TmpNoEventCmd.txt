@@ -1,0 +1,3 @@
+--此类有编辑器生成
+--addby editor 
+#ClassName={}

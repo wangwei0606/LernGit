@@ -1,0 +1,15 @@
+﻿{
+         "absToolsZipScriptPath":"Tools/tmp/out/scripts/",
+         "absToolsZipResourcePath":"Tools/tmp/out/resources/",
+         "absToolsOutPath":"Tools/tmp/out/",
+         "absToolsTmpScriptPath":"Tools/tmp/scrouce/scripts/",
+		 "absToolsTmpPath":"Tools/tmp",
+         "absToolsPath":"Tools",
+         "absOutterPath":"client/resources/",
+		 "absInternalResPath":"client/resources/",
+		 "zipResFilter":["textures/","altas/"],
+         "filesuffix":".abinfo",
+		 "mainfestSuffix":".mainfest",
+         "absScriptPath":"client/scripts/",
+		 "absResInfoFile":"resources.mainfest"
+}

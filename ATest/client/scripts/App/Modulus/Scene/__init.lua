@@ -1,0 +1,6 @@
+require "App.Modulus.Scene.Const.__init"
+--require "App.Modulus.Scene.Util.SceneUtil"
+require "App.Modulus.Scene.Mgr.__init"
+require "App.Modulus.Scene.PreLoad.__init"
+require "App.Modulus.Scene.Handler.__init"
+require "App.Modulus.Scene.Control.__init"

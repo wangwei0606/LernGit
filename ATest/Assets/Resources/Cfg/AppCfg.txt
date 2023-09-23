@@ -1,0 +1,28 @@
+﻿{
+   "rules":{
+   	    "szmj_android":{
+	    	"companyName":"huqu",
+	        "productName":"胡趣麻将",
+	        "bundleIdentifier":"com.huqu.songzimajiang",
+	        "icon":"Assets/MyResources/Arts/Media/icon.png",
+	        "splashIcon":"Assets/MyResources/Arts/Media/splashLogo.png",
+			"signIdentity":"xngame_dev"
+	    },
+	    "szmj_ios":{
+	    	"companyName":"huqu",
+	        "productName":"胡趣麻将",
+	        "bundleIdentifier":"com.huqu.songzimajiang",
+	        "icon":"Assets/MyResources/Arts/Media/icon.png",
+	        "splashIcon":"Assets/MyResources/Arts/Media/splashLogo.png",
+			"signIdentity":"xngame_dev"
+	    },
+	    "szmj_pc":{
+	    	"companyName":"huqu",
+	        "productName":"胡趣麻将",
+	        "bundleIdentifier":"com.huqu.songzimajiang",
+	        "icon":"Assets/MyResources/Arts/Media/icon.png",
+	        "splashIcon":"Assets/MyResources/Arts/Media/splashLogo.png",
+			"signIdentity":"xngame_dev"
+	    }
+    }
+}

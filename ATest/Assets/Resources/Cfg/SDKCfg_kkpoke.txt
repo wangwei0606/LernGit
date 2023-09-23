@@ -1,0 +1,7 @@
+﻿{
+	"appkey":"79A34652-C9F4-73FE-B1E4-37247F7D5F35",
+	"appsecet":"9a872413f6b00786b3c893dbcfa7d5a2",
+	"privatekey":"63C1D0F5E7650292D8DAA5247A4238A8",
+	"oauthLoginServer":"http://192.168.0.107/TestServer/loginQmxn",
+	"yvoiceId":"1003566"
+}

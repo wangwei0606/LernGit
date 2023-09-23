@@ -1,0 +1,21 @@
+{
+	"language":"zh_cn",
+	"log":4,
+	"isdevelop":true,
+	"needUpdate":false,
+	"update_url":"https://tp.aceteenpatti.net/82dd791103a4a2b9331db7de8f654976?game_id=51&device_type=1",
+	"update_sub_url":"package",
+	"update_list":"update.json",
+	"clientVersion":"17",
+	"resVersion":"1",
+	"login_url":"",
+	"server_root":"http://tp.aceteenpatti.net/",
+	"server_url":"",
+	"signin_url":"",
+	"notice_url":"",
+	"verify_url":"",
+	"uplog_url":"",
+	"clientlog_url":"https://log.aceteenpatti.net/service/set_log",
+	"channelCommon_url":"",
+	"localServerLst":"ServerLst.txt"
+}
